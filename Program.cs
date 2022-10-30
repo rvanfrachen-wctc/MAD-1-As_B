@@ -3,11 +3,14 @@
   static void Main(string[] args)
   {
     List<Talkable> zoo = new List<Talkable>();
-    StreamWriter streamWriter = new StreamWriter("animals.txt");
+    StreamWriter streamWriter = new StreamWriter("animals.txt", true);
 
-    zoo.Add(new Dog(true, "Bean"));
-    zoo.Add(new Cat(9, "Charlie"));
-    zoo.Add(new Teacher(44, "Stacy Read"));
+    // zoo.Add(new Dog(true, "Bean"));
+    // zoo.Add(new Cat(9, "Charlie"));
+    // zoo.Add(new Teacher(44, "Stacy Read"));
+
+    UserInput userInput = new UserInput(zoo);
+    userInput.CreateNewAnimal();
 
     zoo.ForEach(thing =>
     {
