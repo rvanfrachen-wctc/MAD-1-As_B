@@ -1,0 +1,30 @@
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\bin\Debug\net6.0\Assignment B.exe
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\bin\Debug\net6.0\Assignment B.deps.json
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\bin\Debug\net6.0\Assignment B.runtimeconfig.json
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\bin\Debug\net6.0\Assignment B.dll
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\bin\Debug\net6.0\Assignment B.pdb
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.csproj.AssemblyReference.cache
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.GeneratedMSBuildEditorConfig.editorconfig
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.AssemblyInfoInputs.cache
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.AssemblyInfo.cs
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.csproj.CoreCompileInputs.cache
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.dll
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\refint\Assignment B.dll
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.pdb
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\Assignment B.genruntimeconfig.cache
+E:\1) WCTC - College\1) 2022-2023\Fall\Term 2\1) Mobile Application Development\Module 2\Assignment B\obj\Debug\net6.0\ref\Assignment B.dll
+D:\Assignment B\bin\Debug\net6.0\Assignment B.exe
+D:\Assignment B\bin\Debug\net6.0\Assignment B.deps.json
+D:\Assignment B\bin\Debug\net6.0\Assignment B.runtimeconfig.json
+D:\Assignment B\bin\Debug\net6.0\Assignment B.dll
+D:\Assignment B\bin\Debug\net6.0\Assignment B.pdb
+D:\Assignment B\obj\Debug\net6.0\Assignment B.csproj.AssemblyReference.cache
+D:\Assignment B\obj\Debug\net6.0\Assignment B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment B\obj\Debug\net6.0\Assignment B.AssemblyInfoInputs.cache
+D:\Assignment B\obj\Debug\net6.0\Assignment B.AssemblyInfo.cs
+D:\Assignment B\obj\Debug\net6.0\Assignment B.csproj.CoreCompileInputs.cache
+D:\Assignment B\obj\Debug\net6.0\Assignment B.dll
+D:\Assignment B\obj\Debug\net6.0\refint\Assignment B.dll
+D:\Assignment B\obj\Debug\net6.0\Assignment B.pdb
+D:\Assignment B\obj\Debug\net6.0\Assignment B.genruntimeconfig.cache
+D:\Assignment B\obj\Debug\net6.0\ref\Assignment B.dll
